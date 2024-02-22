@@ -1,3 +1,4 @@
 :root{
-    --cor-fundo:#3E3564
+    --cor-fundo: #FCF405;
+    --cor-fontes:
 }
