@@ -13,3 +13,6 @@
 .imagem-cabecalho{
     width: 70%;
 }
+.item-lista-cabecalho{
+    display: inline-block;
+}
